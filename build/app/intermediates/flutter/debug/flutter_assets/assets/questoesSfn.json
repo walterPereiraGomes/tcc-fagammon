@@ -1,0 +1,117 @@
+[
+    {
+    "pergunta": "1 - Uma das funções da moeda pode ser representada por",
+    "questao_correta": "a",
+    "justificativa": "por que a certa é a A",
+    "alternativas": [
+      {
+        "codigo": "d",
+        "texto": "a) reserva de valor."
+      },
+      {
+        "codigo": "d",
+        "texto": "b) divisibilidade"
+      },
+      {
+        "codigo": "d",
+        "texto": "c) durabilidade"
+      },
+      {
+        "codigo": "d",
+        "texto": "d) deliberar sobre a constituição das IFs"
+      }
+    ]
+  },
+  {
+    "pergunta": "2 - É de responsabilidade do CMN:",
+    "questao_correta": "b",
+    "justificativa": "por que a certa é a B",
+    "alternativas": [
+      {
+        "codigo": "a",
+        "texto": "a) fiscalizar o Bacen"
+      },
+      {
+        "codigo": "b",
+        "texto": "b) executar política monetária"
+      },
+      {
+        "codigo": "c",
+        "texto": "c) controlar o fluxo de moeda"
+      },
+      {
+        "codigo": "d",
+        "texto": "d) aprovar orçamentos monetários preparados pelo Bacen"
+      }
+    ]
+  },
+  {
+    "pergunta": "3 - O Sistema Financeiro Nacional é integrado por:",
+    "questao_correta": "c",
+    "justificativa": "por que a certa é a C",
+    "alternativas": [
+      {
+        "codigo": "a",
+        "texto": "a) Ministérios da Fazenda e do Planejamento, Orçamento e Gestão"
+      },
+      {
+        "codigo": "b",
+        "texto": "b) Secretaria do Tesouro Nacional e Conselho Monetário Nacional"
+      },
+      {
+        "codigo": "c",
+        "texto": "c) órgãos normativos, entidades supervisoras e operadores"
+      },
+      {
+        "codigo": "d",
+        "texto": "d) Receita Federal do Brasil e Comissão de Valores Mobiliários"
+      }
+    ]
+  },
+  {
+    "pergunta": "4 - O Banco Central do Brasil tem como forma:",
+    "questao_correta": "d",
+    "justificativa": "por que a certa é a D",
+    "alternativas": [
+      {
+        "codigo": "a",
+        "texto": "a) receber os recolhimentos compulsórios dos bancos."
+      },
+      {
+        "codigo": "b",
+        "texto": "b) garantir a liquidez dos títulos de emissão do Tes. Nacional."
+      },
+      {
+        "codigo": "c",
+        "texto": "c) acompanhar as transações em bolsas de valores"
+      },
+      {
+        "codigo": "d",
+        "texto": "d) assegurar o resgate dos contratos de previdência privada"
+      }
+    ]
+  },
+  {
+    "pergunta": "5 - Não se refere a competência do Banco Central do Brasil:",
+    "questao_correta": "a",
+    "justificativa": "por que a certa é a A",
+    "alternativas": [
+      {
+        "codigo": "a",
+        "texto": "a) exercer a fiscalização das instituições financeiras;"
+      },
+      {
+        "codigo": "b",
+        "texto": "b) executar os serviços do meio circulante"
+      },
+      {
+        "codigo": "c",
+        "texto": "c) emitir moeda-papel e moeda metálica"
+      },
+      {
+        "codigo": "d",
+        "texto": "d) fixar as diretrizes e normas da política cambial"
+      }
+    ]
+  }
+]
